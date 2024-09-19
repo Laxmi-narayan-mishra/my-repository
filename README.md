@@ -1,4 +1,4 @@
 # my-repository
 This is my first repository
-student-laxmi narayan mishra
+student-Laxmi Narayan Mishra
 
